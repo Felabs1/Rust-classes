@@ -21,7 +21,7 @@ A program that reads from and writes to a file. For example, create a text edito
 ### 6. HTTP Client
 We Use the reqwest crate to create a simple HTTP client that fetches data from a given URL and displays it.
 
-### 7. Fibonacci Sequence
+### 7. Fibonacci Sequence **Done* :star::star::star::star::star:
 A program that generates the Fibonacci sequence up to a certain number.
 ### 8. Simple Web Server
 This Program uses hyper or warp crate, creating a basic web server that handles HTTP requests and serves static content.
